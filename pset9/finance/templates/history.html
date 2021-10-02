@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Your History
+{% endblock %}
+
+{% block main %}
+        <div class="container">
+            <table class="table">
+                <tr>
+                    <th>Date of Transaction</th>
+                    <th>Stock</th>
+                    <th>Price of each Stock</th>
+                    <th>Number of Stock</th>
+                </tr>
+                {% for stock in stocks %}
+                    <tr>
+                        <td>{{ stock['date'] }}</td>
+                        <td>{{ stock['stock'].upper() }}</td>
+                        <td>{{ usd(stock['price']) }}</td>
+                        <td>{{ usd(stock['quantity']) }}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+        </div>
+{% endblock %}

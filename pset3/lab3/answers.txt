@@ -1,0 +1,11 @@
+sort1 uses: Bubble.
+
+How do you know?: sort1 runs through each program faster than sort3 but slower than sort1.
+
+sort2 uses: Merge.
+
+How do you know?: sort2 runs through each program the fastest.
+
+sort3 uses: Selection.
+
+How do you know?: sort3 runs through each program the slowest.

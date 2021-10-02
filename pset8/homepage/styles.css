@@ -1,0 +1,25 @@
+body {
+    background-color: #fff;
+    color: #212529;
+    margin: 0;
+    text-align: left;
+}
+
+.container {
+    margin-left: auto;
+}
+
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 54px;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+}
+
+ul {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 28px;
+}
