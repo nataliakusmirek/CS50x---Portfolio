@@ -1,5 +1,5 @@
 # CS50x---Portfolio
-This portfolio showcases all the assignments I completed from January 2020 to July 2020 from Harvard University's CS50x Introduction to Computer Science course.
+This portfolio showcases all the assignments I completed from January 2021 to July 2021 from Harvard University's CS50x Introduction to Computer Science course.
 
 This includes ten problem sets each with their own labs, and one final project which was [Astrologic.](https://github.com/nataliakusmirek/Astrologic)
 
