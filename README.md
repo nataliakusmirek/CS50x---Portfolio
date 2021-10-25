@@ -39,3 +39,5 @@ This includes ten problem sets each with their own labs, and one final project w
 
 
 ⭐ **Final Project:** [Astrologic](https://github.com/nataliakusmirek/Astrologic)
+
+![Certificate](CS50.png)
